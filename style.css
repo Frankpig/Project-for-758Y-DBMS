@@ -2,7 +2,18 @@ body {
     position: relative;
     background-image:url('./University–Robert-H-Smith.jpg');
     background-repeat: no-repeat;    
+    background-attachment: fixed;
+    background-size: cover;
     opacity:1 ;
 }
 
+.logo {
+    text-align: center;
+    background-color: FireBrick;
+}
+
+.header {
+    text-align: center;
+    background-color: FireBrick;
+}
 
