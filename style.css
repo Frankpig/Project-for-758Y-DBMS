@@ -17,3 +17,7 @@ body {
     background-color: FireBrick;
 }
 
+.footer {
+    position: absolute;
+}
+
